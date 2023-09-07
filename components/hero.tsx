@@ -34,9 +34,7 @@ drastically enhance your Conversion rates across Real estate.</p>
               <div data-aos="fade-up" data-aos-delay="400">
                 <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://form.jotform.com/232467020322444">Reach out to us!</a>
               </div>
-              <div data-aos="fade-up" data-aos-delay="600">
-                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="#0">Follow us</a>
-              </div>
+              
             </div>
           </div>
 
